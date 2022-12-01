@@ -34,4 +34,8 @@ void menu() {
 		cout << "\nApasa tasta Enter pentru a continua... ";
 		cin.get();
 	}
+	else {
+		cout << "\nID actiune invalid!" << endl;
+		menu();
+	}
 }

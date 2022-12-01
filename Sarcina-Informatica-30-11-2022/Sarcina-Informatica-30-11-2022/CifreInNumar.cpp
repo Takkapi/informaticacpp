@@ -18,7 +18,7 @@ void CifreInNumar() {
 			cout << "Numarul introdus are mai mult de 4 cifre" << endl;
 		}
 		else {
-			cout << "Numarul n are " << to_string(n).length() - 1 << " cifre!" << endl;
+			cout << "Numarul n este de " << to_string(n).length() - 1 << " cifre!" << endl;
 		}
 	}
 	else {
@@ -26,7 +26,7 @@ void CifreInNumar() {
 			cout << "Numarul introdus are mai mult de 4 cifre" << endl;
 		}
 		else {
-			cout << "Numarul n are " << to_string(n).length() << " cifre!" << endl;
+			cout << "Numarul n este de " << to_string(n).length() << " cifre!" << endl;
 		}
 	}
 

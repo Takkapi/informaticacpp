@@ -24,6 +24,7 @@ void menu() {
 
 	cout << "Program elaborat de Smolenschi Petru(Takkapi)" << endl;
 	cout << endl;
+	cout << "Selecteaza o optiune folosind sagetile sus/jos" << endl;
 	
 	int Set[] = { 7, 7, 7 };
 	int counter = 2;
